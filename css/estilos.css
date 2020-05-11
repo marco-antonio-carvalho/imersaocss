@@ -1,0 +1,16 @@
+body{
+    background: #E6E6FA;
+  }
+  
+  header{
+    
+    background:#00FFFF;
+  }
+  
+  main{
+    background: #00FFFF;
+  }
+  
+  .titulo{
+    text-align: center
+  }
